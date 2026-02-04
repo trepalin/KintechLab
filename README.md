@@ -19,8 +19,9 @@ Approximately 4.4M polymer SRU, resulting in the extremal properties design - Mo
 
 Reference:
 
-New polymers in-silico generation and properties prediction
+1) ZeroTwo and MonteCarlo databases: New polymers in-silico generation and properties prediction
 Andrey A. Kniznik, Pavel V. Komarov, Boris V. Potapkin, Denis B. Shirabaykin, Alexander S. Sinitsa, Sergey V. Trepalin
+2) MCKintech database: Sergey V. Trepalin, Pavel V. Komarov, Andrey A. Knizhnika, Alexander S. Sinitsa, Denis B. Shirabaykin, Boris V. Potapkin, Synthetic accessibility score as a filter for virtual chemical structures in polymer materials design, to be published
 
 Note:
 For non-commercial use
